@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { gameData } from '../data';
+import { gameData } from './data';
 import UnitCard from './UnitCard';
 
 interface HomePageProps {
