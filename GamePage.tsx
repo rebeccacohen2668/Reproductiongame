@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
-import { Unit, Pair } from '../types';
+import { Unit, Pair } from './types';
 import FeedbackPopup from './FeedbackPopup';
 import CompletionModal from './CompletionModal';
 
