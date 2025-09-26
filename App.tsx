@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
-import HomePage from './components/HomePage';
-import GamePage from './components/GamePage';
+import HomePage from './HomePage';
+import GamePage from './GamePage';
 import { gameData } from './data';
 
 const App: React.FC = () => {
